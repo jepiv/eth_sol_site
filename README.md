@@ -17,6 +17,8 @@ The file labeled 'frontend' contains all website code.
 
 The file labeled 'backend' contains all solidity/blockchain code (with private info. expunged).
 
+This project was compiled by me, with portions of the code from _buildspace and farza. 
+
 Thank you for viewing! 
 
 Joe P.
