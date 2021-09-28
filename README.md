@@ -2,6 +2,8 @@
 
 //For all viewers
 
+Screenshot of the website (in case it's down, and I can't get back to you in time): https://i.imgur.com/mBFTKaE.png
+
 This is the backup github repo for my ethereum site. 
 
 Please note that the code in this repo is non-functional. It is missing all libraries needed to achieve functionality. If you would like to see
@@ -17,6 +19,6 @@ The file labeled 'backend' contains all solidity/blockchain code (with private i
 
 Thank you for viewing! 
 
-Screenshot of the website (in case it's down, and I can't get back to you in time): https://i.imgur.com/mBFTKaE.png
+Joe P.
 
 
